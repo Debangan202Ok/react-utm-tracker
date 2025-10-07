@@ -242,11 +242,11 @@ If you have cloned the repository and want to test it locally:
 
 ## 📜 License
 
-MIT © 2025 [Your Name]
+MIT © 2025 Debangan Paul Chowdhury
 
 Feel free to use, modify, and distribute.
 
 ## ❤️ Contributing
 
-Contributions, issues, and feature requests are welcome\! Please feel free to open issues or pull requests on the [GitHub repository](https://www.google.com/search?q=https://github.com/debangan202ok/react-utm-tracker).
+Contributions, issues, and feature requests are welcome\! Please feel free to open issues or pull requests on the [GitHub repository](https://github.com/debangan202ok/react-utm-tracker).
 
